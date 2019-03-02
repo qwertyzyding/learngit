@@ -1,3 +1,2 @@
 to learn git
-npofewqngfoewqngwqogenwqg[oewq
-mviwnovwi
+git is a distributed version control system

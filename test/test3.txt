@@ -1,1 +1,2 @@
 test --no-ff
+test fast-forward
